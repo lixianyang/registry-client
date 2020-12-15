@@ -1,4 +1,4 @@
-module github.com/lixianyang/registry-client
+module github.com/lixianyang/registry-client/v2
 
 go 1.15
 
