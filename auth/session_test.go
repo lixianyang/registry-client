@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/docker/distribution/testutil"
-	"github.com/lixianyang/registry-client/auth/challenge"
-	"github.com/lixianyang/registry-client/transport"
+	"github.com/lixianyang/registry-client/v2/auth/challenge"
+	"github.com/lixianyang/registry-client/v2/transport"
 )
 
 // An implementation of clock for providing fake time data.

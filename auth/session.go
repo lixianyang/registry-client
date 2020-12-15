@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lixianyang/registry-client"
-	"github.com/lixianyang/registry-client/auth/challenge"
-	"github.com/lixianyang/registry-client/transport"
+	"github.com/lixianyang/registry-client/v2"
+	"github.com/lixianyang/registry-client/v2/auth/challenge"
+	"github.com/lixianyang/registry-client/v2/transport"
 )
 
 var (

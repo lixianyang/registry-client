@@ -10,7 +10,7 @@ import (
 
 	"github.com/docker/distribution/registry/api/errcode"
 
-	"github.com/lixianyang/registry-client/auth/challenge"
+	"github.com/lixianyang/registry-client/v2/auth/challenge"
 )
 
 // ErrNoErrorsInBody is returned when an HTTP response body parses to an empty

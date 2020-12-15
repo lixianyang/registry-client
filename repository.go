@@ -23,7 +23,7 @@ import (
 	"github.com/docker/distribution/registry/storage/cache/memory"
 	"github.com/opencontainers/go-digest"
 
-	"github.com/lixianyang/registry-client/transport"
+	"github.com/lixianyang/registry-client/v2/transport"
 )
 
 // Registry provides an interface for calling Repositories, which returns a catalog of repositories.
