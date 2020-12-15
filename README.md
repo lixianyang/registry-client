@@ -4,7 +4,7 @@ docker registry client. mirrored from [docker distribution](https://github.com/d
 
 # changelog
 
-## [2.7.2] - 2020-12-15
+## [v2.7.2] - 2020-12-15
 
 ### Added
 
